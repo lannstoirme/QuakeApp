@@ -1,6 +1,6 @@
-# therapistbot
+# Quake App
 
-A new Flutter project.
+Live feed of earthquakes delivered directly to your mobile. Made with the wonderful Flutter. 
 
 ## Getting Started
 
